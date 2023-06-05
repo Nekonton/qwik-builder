@@ -6,6 +6,8 @@ import Features from "~/components/widgets/Features";
 import FAQs from "~/components/widgets/FAQs";
 import Stats from "~/components/widgets/Stats";
 import CallToAction from "~/components/widgets/CallToAction";
+import { Video } from "@builder.io/sdk-qwik";
+import video1 from "src/assets/video/ink-test.mp4";
 
 import { SITE } from "~/config.mjs";
 
